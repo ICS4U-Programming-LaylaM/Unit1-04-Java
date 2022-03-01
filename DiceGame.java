@@ -99,5 +99,6 @@ final class DiceGame {
                 }
             }
         }
+        myObj.close();
     }
 }
